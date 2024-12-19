@@ -17,8 +17,6 @@ import HelloWorld from './components/HelloWorld.vue'
     </div>
   </header>
 
-  <h1>Come on, GitHub -_-</h1>
-
   <RouterView />
 </template>
 
